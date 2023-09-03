@@ -1,5 +1,3 @@
-# jena
-
 pipeline {
     agent any
 
