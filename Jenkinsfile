@@ -10,6 +10,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Venom gonna come for you'
+                echo 'Do something'
             }
         }
     }
